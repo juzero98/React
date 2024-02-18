@@ -11,10 +11,11 @@ import Accomodate from './chapter_07/Accomodate';
 import ConfirmButton from './chapter_08/ConfirmButton3';
 import LandingPage from './chapter_09/LandingPage';
 import SignUp from './chapter_11/SignUp';
+import Calculator from './chapter_12/Calculator';
 
 ReactDOM.render(
   <React.StrictMode>
-    <SignUp />
+    <Calculator />
   </React.StrictMode>,
   document.getElementById('root')
 );
